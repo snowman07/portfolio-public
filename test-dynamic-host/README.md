@@ -10,10 +10,10 @@ Technology Used:
 Working Website: http://snowman.lovestoblog.com/
 
 Web Host: https://infinityfree.net/
-- login username: domingo.arrbelrey@gmail.com
-- login password: arr.snowman7
+- login username: *******.*********@*****.***
+- login password: ***.*******7
 - username: epiz_27152559
-- password: f4ADJTlk5j
+- password: **********
 - server/hostname: sql310.epizy.com
 - database: epiz_27152559_try_dynamic_host
 
