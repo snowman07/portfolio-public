@@ -10,6 +10,11 @@
     if(isset($_SESSION['aasdffrtgfbqw'])) {                //<-- to here
         //header("Location: login.php");
         //echo "Logged in";
+
+        // //Added this!
+        // $_SESSION['aasdffrtgfbqw'] = TRUE;
+        // header('location:' .$_SESSION['redirectURL']);
+
     } else {
         //echo "NOT logged in";
         header("Location: login.php");

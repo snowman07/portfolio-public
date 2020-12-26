@@ -18,10 +18,10 @@
     $msgPost = "\n</div>";  
 
     //--------------------------------------------------------//
-    //-------------  RETRIEVE DATA FROM THE FORM -------------//
+    //-------------  RETRIEVE DATA FROM THE LOGIN FORM -------------//
 
     // if "if" statement is present, critically test it
-    if(isset($_POST['mysubmit'])) { // has the button been pushed
+    if(isset($_POST['loginsubmit'])) { // has the button been pushed
     //echo " submit"; //this is a test to show submit word when user click submit
 
         //if(($username == "phil") && ($password =="web123")) {     // <--- from here
@@ -32,17 +32,21 @@
             //$msg = "Welcome";   // just for testing 
             session_start();
             $_SESSION['aasdffrtgfbqw'] = session_id(); // make as random as possible
+
+            // // Added this!
+            // $_SESSION['redirectURL'] = $_SERVER['REQUEST_URI'];
+
             header("Location: insert.php");  //remember to disable this if you are debugging!!
             //header("Location: edit.php");
 
-        } else if (($username == $username_good) && (password_verify($password, $pw_enc))) {  
-            //-------------------------//
-            //-------- SUCCESS --------//
-            //-------------------------//
-            //$msg = "Welcome";   // just for testing 
-            session_start();
-            $_SESSION['aasdffrtgfbqw'] = session_id(); // make as random as possible
-            header("Location: edit.php");
+        // } else if (($username == $username_good) && (password_verify($password, $pw_enc))) {  
+        //     //-------------------------//
+        //     //-------- SUCCESS --------//
+        //     //-------------------------//
+        //     //$msg = "Welcome";   // just for testing 
+        //     session_start();
+        //     $_SESSION['aasdffrtgfbqw'] = session_id(); // make as random as possible
+        //     header("Location: edit.php");
             
         } else {
             $msg = "Incorrect Login";
@@ -55,7 +59,7 @@
             $msg = "Please enter username and password";
         }
     } 
-    //-----------  END OF RETRIEVE DATA FROM THE FORM -----------//
+    //-----------  END OF RETRIEVE DATA FROM THE LOGIN FORM -----------//
     //-----------------------------------------------------------//
 ?>
 
@@ -66,7 +70,7 @@
 <div class="jumbotron clearfix">
   <h1><?php echo APP_NAME ?></h1>
   <p class="lead">
-    Please login so you can do insert  an imaget.
+    Please login so you can insert/edit  an image.
   </p>
   <!-- <a class="btn btn-primary float-right" href="logout.php" role="button">Logout</a> -->
 </div>
@@ -95,7 +99,7 @@
             placeholder="Enter password here"
         />
     </div>
-    <button type="submit" name="mysubmit" class="btn btn-primary mb-2">Login</button>
+    <button type="submit" name="loginsubmit" class="btn btn-primary mb-2">Login</button>
     <p>&nbsp;</p>
 </form>
 
