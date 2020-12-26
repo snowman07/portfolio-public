@@ -12,8 +12,8 @@ Plants will be displayed right after the user opens the website. At the top of t
     - Framework: Bootstrap
 - NAIT server (below filezilla credentials)
     - Host: dmitstudent.ca
-    - Username: adomingo4
-    - Password: a**.s**wm*n7 
+    - Username: ********4
+    - Password: a**.s******7 
 
 ## Screenshots
 - Working Website: http://adomingo4.dmitstudent.ca/dmit2025/week12/
