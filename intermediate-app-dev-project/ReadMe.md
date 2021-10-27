@@ -63,4 +63,4 @@
 
 ## Database Setup in Microsoft SQL Server Management Studio
 
-![](/img/databased.PNG)
+![](/img/database.PNG)
