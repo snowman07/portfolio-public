@@ -1,11 +1,19 @@
-# Jan 2021 eTools Group Project
+# Final Project for DMIT 2018 Intermediate Application Development
 
-> TEAM DIAMOND
-- <a href="/ToolsRUsSolution/WebApp/SystemPages/Sales/">Arr Domingo - Sales Subsystem</a>
-- <a href="/ToolsRUsSolution/WebApp/SystemPages/Receiving/">Rohan Matharu - Receiving Subsystem</a>
-- <a href="/ToolsRUsSolution/WebApp/SystemPages/Rentals/">Akshit Kanwar - Rental Subsystem</a>
-- <a href="/ToolsRUsSolution/WebApp/SystemPages/Purchasing/">Shanel Garcia - Purchasing Subsystem</a>
+> This is a group project where we need to setup everything ranging from Visual Studio, github repo, logo, security and databases. On the other hand, this project consist of subsystems which we need to accomplish individually. I was assigned to do Sales Subsystem.
 
-![logo](https://user-images.githubusercontent.com/60453441/112609158-cf987d00-8de0-11eb-9584-f5335d0ad2cf.png)
+## About the project
 
-## Specification requirements here
+- Implement On-Line Transaction processing in a web application.
+- Implement Command-Query Responsibility Segregation (CQRS) to support businessprocesses.
+- Apply techniques for effective workflows in a web environment for an enhanced UserExperience (UX Design Principles).
+- Implement web-based security using modern security framework.
+- Implement current best practices in database access & representation in softwareapplications.
+- Implement Version Control (DVCS) throughout the software development process in ateam environment.
+
+## Home Page
+
+
+## About Page
+
+## Sales Subsystem
