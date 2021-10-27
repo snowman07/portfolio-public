@@ -17,13 +17,13 @@
 
 > This page shows the "who's what"
 
-![](/img/homepage.PNG)
+![](img/homepage.PNG)
 
 ## About Page
 
 > Since security of this app is in place, this page shows the information needed to access different
 
-![](/img/about.PNG)
+![](img/about.PNG)
 
 ## Sales Subsystem Login Page
 
@@ -31,36 +31,36 @@
   - username: JKan
   - password: Pa$$wordUser
 
-![](/img/sale-login.PNG)
+![](img/sale-login.PNG)
 
 ## Sales Order Page
 
 > User can place order here. This page consist of 3 tabs namely: Shopping, View Cart, and Checkout
 
-![](/img/sales-order.PNG)
+![](img/sales-order.PNG)
 
 ### Shopping tab
 
 > In this tab, user can see variety of available products. User can see the "Count" of the product under that category. User can also add how many quantities he/she opt to buy for the specific item. If done shopping, user may proceed to "View Cart".
 
-![](/img/shopping.PNG)
+![](img/shopping.PNG)
 
 ### View Cart tab
 
 > In this tab, user can update the "Quatity" of an item and then click refresh button to show the current subtotal and the overall total of all the products/items. Alternatively, user can click "remove" button to remove the item in the listview. User may return to "Shopping" tab or proceed to "Checkout" tab.
 
-![](/img/view-cart.PNG)
+![](img/view-cart.PNG)
 
 ### Checkout tab
 
 > In this tab, user can select a discount coupon and select payment type. Furthermore, user may "Place Order" or "Cancel" the order.
 
-![](/img/checkout.PNG)
+![](img/checkout.PNG)
 
 ## Sale Subsystem ERD
 
-![](/img/sale-erd.PNG)
+![](img/sale-erd.PNG)
 
 ## Database Setup in Microsoft SQL Server Management Studio
 
-![](/img/database.PNG)
+![](img/database.PNG)
