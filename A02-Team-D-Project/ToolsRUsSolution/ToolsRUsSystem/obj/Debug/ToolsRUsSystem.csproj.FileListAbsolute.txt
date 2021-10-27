@@ -1,0 +1,13 @@
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\bin\Debug\ToolsRUsSystem.dll.config
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\bin\Debug\ToolsRUsSystem.dll
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\bin\Debug\ToolsRUsSystem.pdb
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\bin\Debug\EntityFramework.dll
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\bin\Debug\FreeCode.Exceptions.dll
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\bin\Debug\EntityFramework.xml
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\obj\Debug\ToolsRUsSystem.csproj.CoreCompileInputs.cache
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\obj\Debug\ToolsRUsSystem.csproj.CopyComplete
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\obj\Debug\ToolsRUsSystem.dll
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\obj\Debug\ToolsRUsSystem.pdb
+C:\GH\winter2021\A02-Team-D-Project\ToolsRUsSolution\ToolsRUsSystem\obj\Debug\ToolsRUsSystem.csprojAssemblyReference.cache
