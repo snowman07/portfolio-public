@@ -21,7 +21,7 @@
 
 ## About Page
 
-> Since security of this app is in place, this page shows the information needed to access different
+> Since security of this app is in place, this page shows the information needed to access different subsystem.
 
 ![](img/about.PNG)
 
