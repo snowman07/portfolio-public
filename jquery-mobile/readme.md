@@ -38,7 +38,7 @@
 
 <br /><br />
 
-## Comments tab tab
+## Comments tab
 
 > Implements the use of forms for user's comments or suggestions
 
